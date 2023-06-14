@@ -11,9 +11,12 @@ To run the TCP connection code, follow these steps:
 1. Open the `tcp.js` file and configure the TCP server details, such as the server IP address and port.
 
 2. Run the TCP connection code by executing the following command:
+
    ```bash
    node tcp.js
    ```
+
+   ![Tcp Example](./Screenshot 2023-06-14 at 22.15.57.png)
 
 ## UDP Connection
 
@@ -27,3 +30,5 @@ To run the UDP connection code, follow these steps:
    ```bash
    node udp.js
    ```
+
+![Udp Example](./Screenshot%202023-06-14%20at%2022.31.20.png)
