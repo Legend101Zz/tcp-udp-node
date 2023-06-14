@@ -16,7 +16,7 @@ To run the TCP connection code, follow these steps:
    node tcp.js
    ```
 
-   ![Tcp Example](./Screenshot 2023-06-14 at 22.15.57.png)
+   ![Tcp Example](./Screenshot%202023-06-14%20at%2022.15.57.png)
 
 ## UDP Connection
 
@@ -31,4 +31,4 @@ To run the UDP connection code, follow these steps:
    node udp.js
    ```
 
-![Udp Example](./Screenshot%202023-06-14%20at%2022.31.20.png)
+![Udp Example](./Screenshot%202023-06-14%20at%2022.39.14.png)
