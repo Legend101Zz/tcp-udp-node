@@ -32,3 +32,9 @@ To run the UDP connection code, follow these steps:
    ```
 
 ![Udp Example](./Screenshot%202023-06-14%20at%2022.39.14.png)
+
+<!-- LICENSE -->
+
+## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Distributed under the MIT License. See `LICENSE` for more information.
